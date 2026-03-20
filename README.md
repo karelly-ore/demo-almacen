@@ -64,7 +64,7 @@ Aquí se puede apreciar la interfaz analítica y operativa consumiendo los datos
 <img width="1793" height="756" alt="image" src="https://github.com/user-attachments/assets/9e1d7818-8366-4798-a560-abac2e1c56a1" />
 *Descripción: Vista de los endpoints transaccionales y analíticos que alimentan las aplicaciones cliente.*
 
-## 🔒 Estado del Proyecto y Confidencialidad
+## Estado del Proyecto y Confidencialidad
 
 Este repositorio sirve exclusivamente como **portafolio profesional de vitrina (showcase)**.
 
